@@ -2,11 +2,11 @@
     {
         "type": "textarea",
         "datatype": "string",
-        "placeholder": "Enter search keywords per line",
+        "placeholder": "Enter up to 10 username, one username per line",
         "default": "crawlora",
-        "label": "Google searchs",
+        "label": "instagram username",
         "regex": "/^.*$/",
         "required": true,
-        "name": "searches"
+        "name": "usernames"
       }
 ]

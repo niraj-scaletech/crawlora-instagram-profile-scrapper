@@ -1,3 +1,3 @@
-import GetGoogleLinks from "./index";
+import GetInstaProfileData from "./index";
 
-GetGoogleLinks({ searches: `crawlora\nscaletech` });
+GetInstaProfileData({ usernames: `er.neo.xviii\nratantata` });
